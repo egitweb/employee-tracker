@@ -3,7 +3,7 @@
 <h3>Preview:</h3>
 
 <p align="center">
-  <img src="#" height="40%" width="50%" title="Employee-Tracker Preview">
+  <img src="https://raw.githubusercontent.com/egitweb/employee-tracker/main/assets/employee-tracker-preview.png" height="40%" width="50%" title="Employee-Tracker Preview">
 </p>
 
 # Table of Contents 
