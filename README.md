@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/egitweb/employee-tracker/main/assets/employee-tracker-preview.png" height="40%" width="50%" title="Employee-Tracker Preview">
 </p>
 
+[Video]: https://drive.google.com/file/d/1ML_gidtaQqgSCMZHUebVJ5uYKe4rgo0_/view?usp=sharing
+
 # Table of Contents 
   
   * [Installation](#installation)
